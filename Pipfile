@@ -17,6 +17,7 @@ pillow = "*"
 pyembed-markdown = "*"
 pymdown-extensions = "*"
 pygments = "*"
+awscli = "*"
 
 
 [dev-packages]
